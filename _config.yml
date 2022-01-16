@@ -11,10 +11,10 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _Hopeful Weird Wonder_
-description: _indie tabletop games with whimsy and danger_
+title: Hopeful Weird Wonder
+description: indie tabletop games with whimsy and danger
 owner:
-  name: _Amanda P_ # or company name
+  name: Amanda P # or company name
   url: "https://hopefulweirdwonder.github.io/" # your URL
 first_published: 2022 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
@@ -36,7 +36,7 @@ closing-para: _Your detailed closing_
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_weirdwonderdev_
+  twitter: https://twitter.com/weirdwonderdev
   github: https://github.com/_username_
   linkedin-square: https://linkedin.com/in/_username_
   facebook-official: https://facebook.com/_username_
