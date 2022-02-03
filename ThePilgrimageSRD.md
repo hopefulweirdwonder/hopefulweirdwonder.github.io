@@ -5,7 +5,7 @@ The contents of The Pilgrimage SRD is Attribution 4.0 International (CC BY 4.0).
 
 ## Use and Attribution  
 Please make and hack games using the information included in the SRD. If you copy text from the SRD verbatim, please provide the following attribution:
-"This work is based on The Pilgrimage SRD by Amanda P. (CC BY 4.0) located at <https://github.com/hopefulweirdwonder/hopefulweirdwonder.github.io/edit/main/DRAFT%20The%20Pilgrimage%20SRD.md>"  
+"This work is based on The Pilgrimage SRD by Amanda P. (CC BY 4.0) located at https://hopefulweirdwonder.github.io/ThePilgrimageSRD
 
 If you would like to provide additional credit, you may use the phrase "Built on Pilgrimage" to share the game's lineage. 
 
