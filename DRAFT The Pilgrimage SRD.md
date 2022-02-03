@@ -11,7 +11,7 @@ Thank you to Tam H., Yochai Gal, Seedling Games, Andrew White, Alex, Armanda, To
 Games using the Pilgrimage SRD are likely to be solo, prompt based journaling games about going on a trip and managing resources while holding to a code of conduct or ethics.   
 When using this system, you should define four resources, one of which is a meter (Time), the other three which reflect the character's strengths.  
 ## Items Required for Play  
-Trekking with Pilgrimage games require a dice roller or dice (2d6, 1d8, 1d4), a piece of paper, a writing instrument, and appropriate background music if you like.  
+Built on Pilgrimage games require a dice roller or dice (2d6, 1d8, 1d4), a piece of paper, a writing instrument, and appropriate background music if you like.  
 ## Character Creation  
 Roll 2d6 and distribute that total among the 3 Resources. Then set the metered resource at 6. Then select a Character type with their corresponding drive, cherished item, and two adjective Traits. Including spark tables to give the characters additional flavor.   
 ## Prompts and Locations  
