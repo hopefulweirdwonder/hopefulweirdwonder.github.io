@@ -28,6 +28,3 @@ First turn to the next Location. Spend 1 Time.
 Then, roll 2d6 and add the dice. This is your first prompt. Read the prompt and follow the directions. 
 At each location you will roll for two prompts unless otherwise directed. Reroll your dice if you get the same prompt.
 Prompts are based around choices your character would make on their journey. You will spend or gain resources, and earn Reputation. Record these on your sheet.  
-## Running Out of Resources  
-If a player runs out of resources, the character can choose to break their ethical code in some small or large way to regain d6 resources. The player rolls a on a d6 table on ethical mistakes. Prompts for this d6 table should all be explicit about how the ethical code was broken and what they learned. In a zombie game it could be something like:
-"While staying at a settlement in your desperation you stole something that didn't belong to you and was important to that community. What did you steal, what impact did it have? What did you learn?
