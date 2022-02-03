@@ -1,5 +1,5 @@
 # The Pilgrimage SRD
-The Pilgrimage SRD was created in 2022 by Amanda P. of Hopeful Weird Wonder games for the game Pilgrimage of the Sun Guard. Pilgrimage of the Sun Guard is copyright Amanda P. 2022 all rights reserved.  
+The Pilgrimage SRD was created in 2022 by Amanda P. of Hopeful Weird Wonder Games for the game Pilgrimage of the Sun Guard. Pilgrimage of the Sun Guard is copyright Amanda P. 2022 all rights reserved.  
 The contents of The Pilgrimage SRD is Attribution 4.0 International (CC BY 4.0).   
 ## Use and Attribution  
 Please make and hack games using the information included in the SRD. If you copy text from the SRD verbatim, please provide the following attribution:
